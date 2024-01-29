@@ -1,0 +1,8 @@
+INFO: [SIM 2] *************** CSIM start ***************
+INFO: [SIM 4] CSIM will launch GCC as the compiler.
+   Compiling ../../../src/NNMultiLayers.cpp in debug mode
+   Generating csim.exe
+Something is working here
+EncoderWeights[0] = 0.001251  EncoderWeights[1] = 0.563585  EncoderWeights[2] = 0.193304  EncoderWeights[3] = 0.808741  EncoderWeights[4] = 0.585009  EncoderWeights[5] = 0.479873  EncoderWeights[6] = 0.350291  EncoderWeights[7] = 0.895962  EncoderWeights[8] = 0.822840  EncoderWeights[9] = 0.746605  EncoderWeights[10] = 0.174108  EncoderWeights[11] = 0.858943  EncoderWeights[12] = 0.710501  EncoderWeights[13] = 0.513535  EncoderWeights[14] = 0.303995  EncoderWeights[15] = 0.014985  EncoderWeights[16] = 0.091403  EncoderWeights[17] = 0.364452  EncoderWeights[18] = 0.147313  EncoderWeights[19] = 0.165899  EncoderWeights[20] = 0.988525  EncoderWeights[21] = 0.445692  EncoderWeights[22] = 0.119083  EncoderWeights[23] = 0.004669  EncoderWeights[24] = 0.008911  EncoderWeights[25] = 0.377880  EncoderWeights[26] = 0.531663  EncoderWeights[27] = 0.571184  EncoderWeights[28] = 0.601764  EncoderWeights[29] = 0.607166  EncoderWeights[30] = 0.166234  EncoderWeights[31] = 0.663045  EncoderWeights[32] = 0.450789  EncoderWeights[33] = 0.352123  EncoderWeights[34] = 0.057039  EncoderWeights[35] = 0.607685  EncoderWeights[36] = 0.783319  EncoderWeights[37] = 0.802606  EncoderWeights[38] = 0.519883  EncoderWeights[39] = 0.301950  
+ERR: [SIM 100] 'csim_design' failed: nonzero return value.
+INFO: [SIM 3] *************** CSIM finish ***************

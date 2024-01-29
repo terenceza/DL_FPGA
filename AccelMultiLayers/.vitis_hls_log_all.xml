@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vivadoHLSLog:LogRoot xmlns:vivadoHLSLog="www.xilinx.com/vivadoHLSLog">
+  <errorLogs>
+    <logs>
+      <synLog/>
+    </logs>
+  </errorLogs>
+  <warningLogs>
+    <logs>
+      <synLog>
+        <logs message="WARNING: [RTGEN 206-101] Design contains AXI ports. Reset is fixed to synchronous and active low." projectName="AccelMultiLayers" solutionName="solution1" date="2024-01-28T19:16:03.512-0700" type="Warning"/>
+        <logs message="WARNING: [RTGEN 206-101] Setting dangling out port 'NNMultiLayers_Pipeline_VITIS_LOOP_69_4/m_axi_gmem0_ARUSER' to 0." projectName="AccelMultiLayers" solutionName="solution1" date="2024-01-28T19:15:52.089-0700" type="Warning"/>
+        <logs message="WARNING: [RTGEN 206-101] Setting dangling out port 'NNMultiLayers_Pipeline_VITIS_LOOP_69_4/m_axi_gmem0_ARREGION' to 0." projectName="AccelMultiLayers" solutionName="solution1" date="2024-01-28T19:15:51.454-0700" type="Warning"/>
+        <logs message="WARNING: [RTGEN 206-101] Setting dangling out port 'NNMultiLayers_Pipeline_VITIS_LOOP_69_4/m_axi_gmem0_ARQOS' to 0." projectName="AccelMultiLayers" solutionName="solution1" date="2024-01-28T19:15:51.228-0700" type="Warning"/>
+        <logs message="WARNING: [RTGEN 206-101] Setting dangling out port 'NNMultiLayers_Pipeline_VITIS_LOOP_69_4/m_axi_gmem0_ARPROT' to 0." projectName="AccelMultiLayers" solutionName="solution1" date="2024-01-28T19:15:50.912-0700" type="Warning"/>
+        <logs message="WARNING: [RTGEN 206-101] Setting dangling out port 'NNMultiLayers_Pipeline_VITIS_LOOP_69_4/m_axi_gmem0_ARCACHE' to 0." projectName="AccelMultiLayers" solutionName="solution1" date="2024-01-28T19:15:50.582-0700" type="Warning"/>
+        <logs message="WARNING: [RTGEN 206-101] Setting dangling out port 'NNMultiLayers_Pipeline_VITIS_LOOP_69_4/m_axi_gmem0_ARLOCK' to 0." projectName="AccelMultiLayers" solutionName="solution1" date="2024-01-28T19:15:50.459-0700" type="Warning"/>
+        <logs message="WARNING: [RTGEN 206-101] Setting dangling out port 'NNMultiLayers_Pipeline_VITIS_LOOP_69_4/m_axi_gmem0_ARBURST' to 0." projectName="AccelMultiLayers" solutionName="solution1" date="2024-01-28T19:15:50.401-0700" type="Warning"/>
+        <logs message="WARNING: [RTGEN 206-101] Setting dangling out port 'NNMultiLayers_Pipeline_VITIS_LOOP_69_4/m_axi_gmem0_ARSIZE' to 0." projectName="AccelMultiLayers" solutionName="solution1" date="2024-01-28T19:15:50.317-0700" type="Warning"/>
+        <logs message="WARNING: [RTGEN 206-101] Setting dangling out port 'NNMultiLayers_Pipeline_VITIS_LOOP_69_4/m_axi_gmem0_ARLEN' to 0." projectName="AccelMultiLayers" solutionName="solution1" date="2024-01-28T19:15:50.129-0700" type="Warning"/>
+        <logs message="WARNING: [RTGEN 206-101] Setting dangling out port 'NNMultiLayers_Pipeline_VITIS_LOOP_69_4/m_axi_gmem0_ARID' to 0." projectName="AccelMultiLayers" solutionName="solution1" date="2024-01-28T19:15:49.991-0700" type="Warning"/>
+        <logs message="WARNING: [RTGEN 206-101] Setting dangling out port 'NNMultiLayers_Pipeline_VITIS_LOOP_69_4/m_axi_gmem0_ARADDR' to 0." projectName="AccelMultiLayers" solutionName="solution1" date="2024-01-28T19:15:49.835-0700" type="Warning"/>
+        <logs message="WARNING: [RTGEN 206-101] Setting dangling out port 'NNMultiLayers_Pipeline_VITIS_LOOP_69_4/m_axi_gmem0_ARVALID' to 0." projectName="AccelMultiLayers" solutionName="solution1" date="2024-01-28T19:15:49.634-0700" type="Warning"/>
+        <logs message="WARNING: [RTGEN 206-101] Setting dangling out port 'NNMultiLayers_Pipeline_VITIS_LOOP_63_3/m_axi_gmem0_ARUSER' to 0." projectName="AccelMultiLayers" solutionName="solution1" date="2024-01-28T19:15:47.343-0700" type="Warning"/>
+        <logs message="WARNING: [RTGEN 206-101] Setting dangling out port 'NNMultiLayers_Pipeline_VITIS_LOOP_63_3/m_axi_gmem0_ARREGION' to 0." projectName="AccelMultiLayers" solutionName="solution1" date="2024-01-28T19:15:46.824-0700" type="Warning"/>
+        <logs message="WARNING: [RTGEN 206-101] Setting dangling out port 'NNMultiLayers_Pipeline_VITIS_LOOP_63_3/m_axi_gmem0_ARQOS' to 0." projectName="AccelMultiLayers" solutionName="solution1" date="2024-01-28T19:15:46.639-0700" type="Warning"/>
+        <logs message="WARNING: [RTGEN 206-101] Setting dangling out port 'NNMultiLayers_Pipeline_VITIS_LOOP_63_3/m_axi_gmem0_ARPROT' to 0." projectName="AccelMultiLayers" solutionName="solution1" date="2024-01-28T19:15:46.443-0700" type="Warning"/>
+        <logs message="WARNING: [RTGEN 206-101] Setting dangling out port 'NNMultiLayers_Pipeline_VITIS_LOOP_63_3/m_axi_gmem0_ARCACHE' to 0." projectName="AccelMultiLayers" solutionName="solution1" date="2024-01-28T19:15:46.371-0700" type="Warning"/>
+        <logs message="WARNING: [RTGEN 206-101] Setting dangling out port 'NNMultiLayers_Pipeline_VITIS_LOOP_63_3/m_axi_gmem0_ARLOCK' to 0." projectName="AccelMultiLayers" solutionName="solution1" date="2024-01-28T19:15:46.222-0700" type="Warning"/>
+        <logs message="WARNING: [RTGEN 206-101] Setting dangling out port 'NNMultiLayers_Pipeline_VITIS_LOOP_63_3/m_axi_gmem0_ARBURST' to 0." projectName="AccelMultiLayers" solutionName="solution1" date="2024-01-28T19:15:45.927-0700" type="Warning"/>
+        <logs message="WARNING: [RTGEN 206-101] Setting dangling out port 'NNMultiLayers_Pipeline_VITIS_LOOP_63_3/m_axi_gmem0_ARSIZE' to 0." projectName="AccelMultiLayers" solutionName="solution1" date="2024-01-28T19:15:44.798-0700" type="Warning"/>
+        <logs message="WARNING: [RTGEN 206-101] Setting dangling out port 'NNMultiLayers_Pipeline_VITIS_LOOP_63_3/m_axi_gmem0_ARLEN' to 0." projectName="AccelMultiLayers" solutionName="solution1" date="2024-01-28T19:15:44.587-0700" type="Warning"/>
+        <logs message="WARNING: [RTGEN 206-101] Setting dangling out port 'NNMultiLayers_Pipeline_VITIS_LOOP_63_3/m_axi_gmem0_ARID' to 0." projectName="AccelMultiLayers" solutionName="solution1" date="2024-01-28T19:15:44.445-0700" type="Warning"/>
+        <logs message="WARNING: [RTGEN 206-101] Setting dangling out port 'NNMultiLayers_Pipeline_VITIS_LOOP_63_3/m_axi_gmem0_ARADDR' to 0." projectName="AccelMultiLayers" solutionName="solution1" date="2024-01-28T19:15:44.371-0700" type="Warning"/>
+        <logs message="WARNING: [RTGEN 206-101] Setting dangling out port 'NNMultiLayers_Pipeline_VITIS_LOOP_63_3/m_axi_gmem0_ARVALID' to 0." projectName="AccelMultiLayers" solutionName="solution1" date="2024-01-28T19:15:44.209-0700" type="Warning"/>
+        <logs message="WARNING: [RTGEN 206-101] Setting dangling out port 'NNMultiLayers_Pipeline_VITIS_LOOP_52_1/m_axi_gmem_ARUSER' to 0." projectName="AccelMultiLayers" solutionName="solution1" date="2024-01-28T19:15:41.886-0700" type="Warning"/>
+        <logs message="WARNING: [RTGEN 206-101] Setting dangling out port 'NNMultiLayers_Pipeline_VITIS_LOOP_52_1/m_axi_gmem_ARREGION' to 0." projectName="AccelMultiLayers" solutionName="solution1" date="2024-01-28T19:15:41.551-0700" type="Warning"/>
+        <logs message="WARNING: [RTGEN 206-101] Setting dangling out port 'NNMultiLayers_Pipeline_VITIS_LOOP_52_1/m_axi_gmem_ARQOS' to 0." projectName="AccelMultiLayers" solutionName="solution1" date="2024-01-28T19:15:41.188-0700" type="Warning"/>
+        <logs message="WARNING: [RTGEN 206-101] Setting dangling out port 'NNMultiLayers_Pipeline_VITIS_LOOP_52_1/m_axi_gmem_ARPROT' to 0." projectName="AccelMultiLayers" solutionName="solution1" date="2024-01-28T19:15:40.880-0700" type="Warning"/>
+      </synLog>
+    </logs>
+  </warningLogs>
+</vivadoHLSLog:LogRoot>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="NNMultiLayers.hpp" path="C:\Users\Terence\Desktop\AccelMultiLayers\src\NNMultiLayers.hpp"/>
+    <originFiles name="NNMultiLayers.cpp" path="C:\Users\Terence\Desktop\AccelMultiLayers\src\NNMultiLayers.cpp"/>
+  </source>
+  <testbench>
+    <originFiles name="TestAccelNNMultiLayers.cpp" path="C:\Users\Terence\Desktop\AccelMultiLayers\test\TestAccelNNMultiLayers.cpp"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>
