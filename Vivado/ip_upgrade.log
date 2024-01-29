@@ -1,0 +1,37 @@
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.1 (win64) Build 3526262 Mon Apr 18 15:48:16 MDT 2022
+| Date         : Sun Dec  4 21:50:17 2022
+| Host         : DESKTOP-943LB4O running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_Autoencoder_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_Autoencoder_0_1 from CyberActive:hls:Autoencoder:1.0 (Rev. 2112798922) to CyberActive:hls:Autoencoder:1.1 (Rev. 2112798948)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.1 (win64) Build 3526262 Mon Apr 18 15:48:16 MDT 2022
+| Date         : Sun Dec  4 21:23:59 2022
+| Host         : DESKTOP-943LB4O running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_Autoencoder_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_Autoencoder_0_0 (CyberActive:hls:Autoencoder:1.0) from (Rev. 2112798845) to (Rev. 2112798922)
+

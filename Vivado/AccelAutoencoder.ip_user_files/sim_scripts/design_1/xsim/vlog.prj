@@ -1,0 +1,39 @@
+verilog xil_defaultlib --include "U:/VivadoSuite-10-19-2022/Vivado/2022.1/data/xilinx_vip/include" --include "../../../../AccelAutoencoder.gen/sources_1/bd/design_1/ipshared/ec67/hdl" --include "../../../../AccelAutoencoder.gen/sources_1/bd/design_1/ipshared/5765/hdl" --include "../../../../AccelAutoencoder.gen/sources_1/bd/design_1/ip/design_1_Autoencoder_0_1/drivers/Autoencoder_v1_1/src" \
+"../../../bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v" \
+"../../../bd/design_1/ip/design_1_xbar_0/sim/design_1_xbar_0.v" \
+"../../../bd/design_1/ip/design_1_xbar_1/sim/design_1_xbar_1.v" \
+"../../../../AccelAutoencoder.gen/sources_1/bd/design_1/ipshared/81a8/hdl/verilog/Autoencoder_Autoencoder_Pipeline_1.v" \
+"../../../../AccelAutoencoder.gen/sources_1/bd/design_1/ipshared/81a8/hdl/verilog/Autoencoder_Autoencoder_Pipeline_2.v" \
+"../../../../AccelAutoencoder.gen/sources_1/bd/design_1/ipshared/81a8/hdl/verilog/Autoencoder_CONTROL_BUS_s_axi.v" \
+"../../../../AccelAutoencoder.gen/sources_1/bd/design_1/ipshared/81a8/hdl/verilog/Autoencoder_control_s_axi.v" \
+"../../../../AccelAutoencoder.gen/sources_1/bd/design_1/ipshared/81a8/hdl/verilog/Autoencoder_dadd_64ns_64ns_64_7_full_dsp_1.v" \
+"../../../../AccelAutoencoder.gen/sources_1/bd/design_1/ipshared/81a8/hdl/verilog/Autoencoder_ddiv_64ns_64ns_64_59_no_dsp_1.v" \
+"../../../../AccelAutoencoder.gen/sources_1/bd/design_1/ipshared/81a8/hdl/verilog/Autoencoder_dexp_64ns_64ns_64_21_full_dsp_1.v" \
+"../../../../AccelAutoencoder.gen/sources_1/bd/design_1/ipshared/81a8/hdl/verilog/Autoencoder_flow_control_loop_pipe_sequential_init.v" \
+"../../../../AccelAutoencoder.gen/sources_1/bd/design_1/ipshared/81a8/hdl/verilog/Autoencoder_gmem0_m_axi.v" \
+"../../../../AccelAutoencoder.gen/sources_1/bd/design_1/ipshared/81a8/hdl/verilog/Autoencoder_gmem_m_axi.v" \
+"../../../../AccelAutoencoder.gen/sources_1/bd/design_1/ipshared/81a8/hdl/verilog/Autoencoder_HiddenValues_V_RAM_AUTO_1R1W.v" \
+"../../../../AccelAutoencoder.gen/sources_1/bd/design_1/ipshared/81a8/hdl/verilog/Autoencoder_mul_7ns_8ns_15_1_1.v" \
+"../../../../AccelAutoencoder.gen/sources_1/bd/design_1/ipshared/81a8/hdl/verilog/Autoencoder_mul_8ns_8ns_16_1_1.v" \
+"../../../../AccelAutoencoder.gen/sources_1/bd/design_1/ipshared/81a8/hdl/verilog/Autoencoder_mul_32s_8ns_32_2_1.v" \
+"../../../../AccelAutoencoder.gen/sources_1/bd/design_1/ipshared/81a8/hdl/verilog/Autoencoder_mux_648_32_1_1.v" \
+"../../../../AccelAutoencoder.gen/sources_1/bd/design_1/ipshared/81a8/hdl/verilog/Autoencoder_sigmoid.v" \
+"../../../../AccelAutoencoder.gen/sources_1/bd/design_1/ipshared/81a8/hdl/verilog/Autoencoder.v" \
+"../../../../AccelAutoencoder.gen/sources_1/bd/design_1/ipshared/81a8/hdl/ip/Autoencoder_dadd_64ns_64ns_64_7_full_dsp_1_ip.v" \
+"../../../../AccelAutoencoder.gen/sources_1/bd/design_1/ipshared/81a8/hdl/ip/Autoencoder_ddiv_64ns_64ns_64_59_no_dsp_1_ip.v" \
+"../../../../AccelAutoencoder.gen/sources_1/bd/design_1/ipshared/81a8/hdl/ip/Autoencoder_dexp_64ns_64ns_64_21_full_dsp_1_ip.v" \
+"../../../bd/design_1/ip/design_1_Autoencoder_0_1/sim/design_1_Autoencoder_0_1.v" \
+"../../../bd/design_1/ip/design_1_auto_pc_2/sim/design_1_auto_pc_2.v" \
+"../../../bd/design_1/ip/design_1_auto_pc_0/sim/design_1_auto_pc_0.v" \
+"../../../bd/design_1/ip/design_1_auto_pc_1/sim/design_1_auto_pc_1.v" \
+"../../../bd/design_1/ip/design_1_s00_mmu_0/sim/design_1_s00_mmu_0.v" \
+"../../../bd/design_1/ip/design_1_auto_us_0/sim/design_1_auto_us_0.v" \
+"../../../bd/design_1/ip/design_1_auto_us_1/sim/design_1_auto_us_1.v" \
+"../../../bd/design_1/ip/design_1_auto_pc_3/sim/design_1_auto_pc_3.v" \
+"../../../bd/design_1/ip/design_1_s00_mmu_1/sim/design_1_s00_mmu_1.v" \
+"../../../bd/design_1/ip/design_1_s01_mmu_0/sim/design_1_s01_mmu_0.v" \
+"../../../bd/design_1/sim/design_1.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort
